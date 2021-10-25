@@ -613,6 +613,11 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 4114345748046016071, guid: 0a9d39f91ef475c46af95c3c5a22dfed, type: 3}
   m_PrefabInstance: {fileID: 4114345749127520497}
   m_PrefabAsset: {fileID: 0}
+--- !u!135 &1082756793 stripped
+SphereCollider:
+  m_CorrespondingSourceObject: {fileID: 4114345748046016070, guid: 0a9d39f91ef475c46af95c3c5a22dfed, type: 3}
+  m_PrefabInstance: {fileID: 4114345749127520497}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1122244260
 GameObject:
   m_ObjectHideFlags: 0
@@ -1388,6 +1393,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4114345748046016077, guid: 0a9d39f91ef475c46af95c3c5a22dfed, type: 3}
+      propertyPath: col
+      value: 
+      objectReference: {fileID: 1082756793}
     - target: {fileID: 4114345748046016077, guid: 0a9d39f91ef475c46af95c3c5a22dfed, type: 3}
       propertyPath: textoGanaste
       value: 
