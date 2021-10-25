@@ -27,7 +27,7 @@
 
 <p>Entrega del trabajo:</p>
 
-- Link del repositorio: 
+- Link del repositorio: https://github.com/ayelencasamassa/motoresgraficosi/tree/main/Trabajo-Practico-Nro-3
 - Link del video del juego: https://youtu.be/Zx3sgL2SEsk
 
 <p>Step by step:</p>
